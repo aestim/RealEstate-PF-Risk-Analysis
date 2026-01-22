@@ -1,0 +1,18 @@
+equity:
+  total: 5700000000  # KRW
+
+debt:
+  pf_min: 19000000000
+  pf_max: 23000000000
+  interest_rate: 0.09
+
+timeline:
+  completion_month: 0
+  court_opening_month: 14
+
+income:
+  emart:
+    deposit: 800000000
+    monthly_rent: 57000000
+  parking:
+    monthly_rent: 13000000
